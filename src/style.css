@@ -1,0 +1,20 @@
+
+* {
+    background-color: #181A1B;
+}
+
+h1 {
+    color: red;
+}
+
+.blurb {
+    color: lightblue;
+}
+
+p {
+    color: lightgreen;
+}
+
+li {
+    color: yellow;
+}
