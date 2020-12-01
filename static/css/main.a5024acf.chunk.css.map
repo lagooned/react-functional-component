@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/style.css"],"names":[],"mappings":"AACA,EACI,wBACJ,CAEA,GACI,SACJ,CAEA,OACI,aACJ,CAEA,EACI,aACJ,CAEA,GACI,UACJ","file":"main.a5024acf.chunk.css","sourcesContent":["\n* {\n    background-color: #181A1B;\n}\n\nh1 {\n    color: red;\n}\n\n.blurb {\n    color: lightblue;\n}\n\np {\n    color: lightgreen;\n}\n\nli {\n    color: yellow;\n}\n"]}
