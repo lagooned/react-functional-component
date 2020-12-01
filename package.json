@@ -2,6 +2,7 @@
   "name": "react-functional-component-practice",
   "version": "1.0.0",
   "description": "react-functional-component-practice",
+  "homepage": "https://lagooned.github.io/react-functional-component",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
