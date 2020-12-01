@@ -9,6 +9,7 @@
     "test": "react-scripts test --passWithNoTests"
   },
   "dependencies": {
+    "gh-pages": "latest",
     "react": "latest",
     "react-dom": "latest",
     "react-scripts": "latest"
